@@ -1,0 +1,170 @@
+Nome:
+
+Data:
+
+Semestre:
+
+                    Quiz das Capitais de Estados (Form30)
+
+1. Qual a capital de Paraná (PR)?
+    A. Curitiba
+    B. Palmas
+    C. Porto Alegre
+    D. Belém
+
+2. Qual a capital de Distrito Federal (DF)?
+    A. Brasília
+    B. Belém
+    C. Porto Velho
+    D. São Luís
+
+3. Qual a capital de Sergipe (SE)?
+    A. Aracaju
+    B. Teresina
+    C. Vitória
+    D. São Paulo
+
+4. Qual a capital de Mato Grosso do Sul (MS)?
+    A. Campo Grande
+    B. Belém
+    C. Florianópolis
+    D. Cuiabá
+
+5. Qual a capital de Amapá (AP)?
+    A. Macapá
+    B. Salvador
+    C. Manaus
+    D. Florianópolis
+
+6. Qual a capital de Alagoas (AL)?
+    A. Aracaju
+    B. Porto Velho
+    C. Florianópolis
+    D. Maceió
+
+7. Qual a capital de Ceará (CE)?
+    A. Fortaleza
+    B. Belém
+    C. Rio de Janeiro
+    D. Belo Horizonte
+
+8. Qual a capital de Maranhão (MA)?
+    A. São Luís
+    B. Brasília
+    C. Manaus
+    D. Porto Velho
+
+9. Qual a capital de Espírito Santo (ES)?
+    A. Belo Horizonte
+    B. Porto Velho
+    C. Vitória
+    D. Manaus
+
+10. Qual a capital de Acre (AC)?
+    A. Teresina
+    B. João Pessoa
+    C. Rio Branco
+    D. Curitiba
+
+11. Qual a capital de São Paulo (SP)?
+    A. Boa Vista
+    B. Fortaleza
+    C. Rio Branco
+    D. São Paulo
+
+12. Qual a capital de Paraíba (PB)?
+    A. Manaus
+    B. João Pessoa
+    C. Belo Horizonte
+    D. São Luís
+
+13. Qual a capital de Goiás (GO)?
+    A. Belém
+    B. Rio Branco
+    C. Goiânia
+    D. Fortaleza
+
+14. Qual a capital de Mato Grosso (MT)?
+    A. Cuiabá
+    B. Florianópolis
+    C. Rio Branco
+    D. Belo Horizonte
+
+15. Qual a capital de Minas Gerais (MG)?
+    A. Salvador
+    B. Belo Horizonte
+    C. Boa Vista
+    D. Maceió
+
+16. Qual a capital de Piauí (PI)?
+    A. Fortaleza
+    B. Rio Branco
+    C. Teresina
+    D. Porto Velho
+
+17. Qual a capital de Bahia (BA)?
+    A. Florianópolis
+    B. Fortaleza
+    C. Salvador
+    D. Palmas
+
+18. Qual a capital de Rio Grande do Sul (RS)?
+    A. Porto Alegre
+    B. Curitiba
+    C. Rio de Janeiro
+    D. Florianópolis
+
+19. Qual a capital de Roraima (RR)?
+    A. Teresina
+    B. Recife
+    C. Aracaju
+    D. Boa Vista
+
+20. Qual a capital de Tocantins (TO)?
+    A. Fortaleza
+    B. Porto Alegre
+    C. Palmas
+    D. Campo Grande
+
+21. Qual a capital de Rondônia (RO)?
+    A. Curitiba
+    B. Goiânia
+    C. Brasília
+    D. Porto Velho
+
+22. Qual a capital de Amazonas (AM)?
+    A. Manaus
+    B. Salvador
+    C. Teresina
+    D. Campo Grande
+
+23. Qual a capital de Pará (PA)?
+    A. Cuiabá
+    B. Vitória
+    C. Belém
+    D. Boa Vista
+
+24. Qual a capital de Rio Grande do Norte (RN)?
+    A. Palmas
+    B. Curitiba
+    C. Recife
+    D. Natal
+
+25. Qual a capital de Santa Catarina (SC)?
+    A. Recife
+    B. Maceió
+    C. Florianópolis
+    D. Goiânia
+
+26. Qual a capital de Pernambuco (PE)?
+    A. Belo Horizonte
+    B. Recife
+    C. Florianópolis
+    D. Teresina
+
+27. Qual a capital de Rio de Janeiro (RJ)?
+    A. Rio de Janeiro
+    B. Recife
+    C. São Paulo
+    D. Belém
+
